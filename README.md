@@ -1,5 +1,7 @@
-# Inventory Tracker 📒    https://basic-inventory-tracker.vercel.app/ 
+# Inventory Tracker 📒  
 Headstarter AI Project 2 
+
+https://basic-inventory-tracker.vercel.app/ 
 
 ## Objective:
 Create a inventory tracker web application for easy management.
