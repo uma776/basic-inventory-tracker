@@ -1,4 +1,4 @@
-# Inventory Tracker 📒
+# Inventory Tracker 📒    https://basic-inventory-tracker.vercel.app/ 
 Headstarter AI Project 2 
 
 ## Objective:
