@@ -4,7 +4,7 @@ Headstarter AI Project 2
 https://basic-inventory-tracker.vercel.app/ 
 
 ## Objective:
-Create a inventory tracker web application for easy management.
+Create an inventory tracker web application for easy management.
 
 ## Details:
 - Utilized Next.js framework for web application set up and functions
